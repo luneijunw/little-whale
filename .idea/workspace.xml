@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c40e820-6864-4404-b1d9-1c2aea79f578" name="Changes" comment="星辰大海">
-      <change afterPath="$PROJECT_DIR$/static/picture/jingyu.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656767877164</updated>
-      <workItem from="1656767879100" duration="6194000" />
+      <workItem from="1656767879100" duration="6528000" />
     </task>
     <task id="LOCAL-00001" summary="哈哈">
       <created>1656767939096</created>
@@ -93,7 +92,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656773001196</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="星辰大海">
+      <created>1656774531824</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656774531824</updated>
+    </task>
+    <task id="LOCAL-00008" summary="星辰大海">
+      <created>1656774677241</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656774677241</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
